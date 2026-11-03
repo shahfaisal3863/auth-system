@@ -27,3 +27,10 @@ dist-ssr
 .env
 .env.*
 !.env.example
+
+# Android signing keys
+*.jks
+*.keystore
+
+# Android generated release files
+android/app/release/

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AuthSystem</string>
+    <string name="title_activity_main">AuthSystem</string>
+    <string name="package_name">com.shahfaisal.authsystem</string>
+    <string name="custom_url_scheme">com.shahfaisal.authsystem</string>
+</resources>
